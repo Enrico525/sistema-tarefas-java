@@ -1,4 +1,3 @@
-# sistema-tarefas-java
 # Sistema de Gerenciamento de Tarefas
 
 ## Status do Projeto
